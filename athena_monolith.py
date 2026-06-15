@@ -3,6 +3,7 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                        ATHENA CLI v3.0                               ║
 ║    Full CLI Coding Assistant · Permission-Gated · Agentic            ║
+║    Created by CodeWithAni — github.com/CodeWithAni                   ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
 Install dependencies:
@@ -1520,6 +1521,10 @@ def print_splash():
     console.print(Align.center(Text(
         f"v3.0  ·  Ollama  ·  Model: {CFG['model']}  ·  Permission-Gated Execution",
         style=C["dim"]
+    )))
+    console.print(Align.center(Text(
+        "Created by CodeWithAni  |  github.com/CodeWithAni",
+        style=f"bold {C['teal']}"
     )))
     console.print()
     console.print(Rule(style=C["dim"]))

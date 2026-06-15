@@ -5,6 +5,7 @@
 Athena is an elite terminal-based software engineering assistant that runs entirely on your machine via Ollama. It features a rich REPL interface, autonomous agentic mode, conversation memory, file system tools, and a safe permission-gated execution model.
 
 ![Version](https://img.shields.io/badge/version-3.2.0-blue)
+[![GitHub](https://img.shields.io/badge/Created%20by-CodeWithAni-181717?logo=github)](https://github.com/CodeWithAni)
 
 ---
 
@@ -161,3 +162,11 @@ Athena is organized as a Python package with these modules:
 ## License
 
 MIT
+
+---
+
+<p align="center">
+  Created with ❤️ by <a href="https://github.com/CodeWithAni"><b>CodeWithAni</b></a>
+  <br>
+  <a href="https://github.com/CodeWithAni">github.com/CodeWithAni</a>
+</p>
